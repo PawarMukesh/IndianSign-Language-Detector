@@ -1,1 +1,1 @@
-"# IndianSign-Language-Detector" 
+# IndianSign-Language-Detector
